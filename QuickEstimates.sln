@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickEstimates", "QuickEstimates\QuickEstimates.csproj", "{7B9B30FB-6FBF-461B-9B7B-05F06788F7A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9B30FB-6FBF-461B-9B7B-05F06788F7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9B30FB-6FBF-461B-9B7B-05F06788F7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9B30FB-6FBF-461B-9B7B-05F06788F7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9B30FB-6FBF-461B-9B7B-05F06788F7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E897810C-E0C3-4D4E-A16C-EE30070BF630}
+	EndGlobalSection
+EndGlobal
